@@ -2,7 +2,7 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6XL0E5FGoVr":
+      case "5ZSkvYQNGGy":
         Script1();
         break;
   }
@@ -11,7 +11,7 @@ function ExecuteScript(strId)
 function Script1()
 {
   var player = GetPlayer();
-var email = 'soltean@deloitte.de';
+var email = 'alexandru.radulea@gmail.com';
 var fbk = player.GetVar('Feedback');
 var subject = 'Course Feedback';
 var emailBody = 'Here is some feedback:' + '\n' + fbk;
